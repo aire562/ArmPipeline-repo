@@ -8,7 +8,7 @@
     "outputs": {
         "output1": {
             "type": "string",
-            "value": "Hello World!"
+            "value": "Hello Space!"
         }
     }
 }
